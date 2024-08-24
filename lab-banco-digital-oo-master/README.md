@@ -19,4 +19,4 @@ Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é ca
 
 
 ### Incrementos implementados
-Adicionei ao projeto o método que permite receber todos os clientes do bando. 
+Adicionei ao projeto o método que permite receber todos os clientes do banco. 
